@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Media DB App</string>
+    <string name="movies">Movies</string>
+    <string name="seasons">Seasons</string>
+    <string name="see_all">See All</string>
+</resources>
